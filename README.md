@@ -1,4 +1,4 @@
-# MockupToMobile  
+# MockupToMobile Day-1
 🚀 **Transforming Figma designs into real-time Flutter apps**  
 
 This repository showcases my 3-day challenge where I converted three Figma-designed login screens 🎨 into fully functional Flutter applications 📱. It highlights my expertise in both UI/UX design and Flutter development.  
